@@ -1,0 +1,27 @@
+{
+  "name": "sadovojav/yii2-inline-widgets-behavior",
+  "type": "yii2-extension",
+  "description": "Add widget into content",
+  "keywords": [
+    "yii2",
+    "behaviors",
+    "inline",
+    "widget"
+  ],
+  "authors": [
+    {
+      "name": "Aleksandr Sadovoj",
+      "email": "sadovojav@gmail.com",
+      "homepage": "https://github.com/sadovojav"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "sadovojav\\iwb\\": ""
+    }
+  }
+}
