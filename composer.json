@@ -1,7 +1,8 @@
 {
   "name": "sadovojav/yii2-inline-widgets-behavior",
-  "type": "yii2-extension",
   "description": "Add widget into content",
+  "version": "1.0.0.0",
+  "type": "yii2-extension",
   "keywords": [
     "yii2",
     "behaviors",
